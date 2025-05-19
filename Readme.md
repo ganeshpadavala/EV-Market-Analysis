@@ -24,24 +24,25 @@ A Python project analyzing EV registration data in Washington State to visualize
    - Install dependencies: `pip install -r requirements.txt`
 
 2. **Project Structure**:
-   EV-Market-Analysis/
-   ├── scripts/
-   │   ├── data_processor.py
-   ├── input/
-   │   ├── ev_data.csv
-   ├── output/
-   │   ├── ev_data_ev_adoption_over_time_*.png
-   │   ├── ev_data_top_cities_in_top_counties_*.png
-   │   ├── ev_data_ev_type_distribution_*.png
-   │   ├── ev_data_top_5_makes_*.png
-   │   ├── ev_data_top_models_in_top_makes_*.png
-   │   ├── ev_data_average_range_by_year_*.png
-   │   ├── ev_data_top_models_by_range_*.png
-   │   ├── ev_data_ev_market_forecast_*.png
-   ├── logs/
-   ├── requirements.txt
-   ├── README.md
-
+     ```
+     EV-Market-Analysis/
+     ├── scripts/
+     │   ├── data_processor.py
+     ├── input/
+     │   ├── ev_data.csv
+     ├── output/
+     │   ├── ev_data_ev_adoption_over_time_*.png
+     │   ├── ev_data_top_cities_in_top_counties_*.png
+     │   ├── ev_data_ev_type_distribution_*.png
+     │   ├── ev_data_top_5_makes_*.png
+     │   ├── ev_data_top_models_in_top_makes_*.png
+     │   ├── ev_data_average_range_by_year_*.png
+     │   ├── ev_data_top_models_by_range_*.png
+     │   ├── ev_data_ev_market_forecast_*.png
+     ├── logs/
+     ├── requirements.txt
+     ├── README.md
+     ```
 
 
 3. **Usage**:
